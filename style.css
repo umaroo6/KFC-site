@@ -5,5 +5,7 @@
     color: white;
 }
 body{
-    font-family: I;
+    font-style:Bold;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
 }
